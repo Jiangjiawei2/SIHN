@@ -140,9 +140,6 @@ checkpoints and raw SIHN state dictionaries are both supported.
 - Masks: random Cartesian, equispaced Cartesian, and radial
 - Supported settings: single-coil and multi-coil complex k-space
 
-Representative trained checkpoints will be released with the public repository
-after publication.
-
 ## Tests
 
 Config and mask tests run without PyTorch. Model-shape tests require PyTorch.
