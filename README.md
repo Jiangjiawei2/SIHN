@@ -153,13 +153,5 @@ PYTHONPATH=. python -m unittest discover -s tests -v
 
 ## Citation
 
-If this code is useful for your research, please cite the SIHN paper. The
-citation entry will be updated after publication.
-
-```bibtex
-@article{hong2026sihn,
-  title  = {SIHN: A Semantic-Injected Hierarchical Network for Accelerated MRI Reconstruction},
-  author = {Hong, Yupeng and Jiang, Jiawei and Quan, Yueqian and Jing, Liang and He, Yuxin and Zheng, Jianwei and Cai, Jing},
-  year   = {2026}
-}
-```
+If this code is useful for your research, please cite the SIHN paper. A complete
+citation entry will be added after publication.
